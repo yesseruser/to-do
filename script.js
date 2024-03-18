@@ -5,7 +5,7 @@ const ITEM_LIST_NAME = "itemList";
 let info = document.querySelector(".info");
 let items = document.querySelector(".items");
 let form = document.querySelector("form");
-let input = document.querySelector(".input");
+let input = document.querySelector("#task");
 
 console.assert(info != null);
 console.assert(items != null);
